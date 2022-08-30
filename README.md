@@ -1,3 +1,5 @@
+This is now an old version of the design. Please see the latest version called VLMP here: https://github.com/AdamV3D/VLMP
+
 # Threaded-Insert-Press
 3D Printed heat press tool for threaded inserts
 
